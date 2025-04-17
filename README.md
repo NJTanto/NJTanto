@@ -8,7 +8,6 @@
 
 ## 🔧 Technologies I Work With
 
-```bash
 💻 Languages:       JavaScript | PHP | Dart | Solidity | Python | Java | Go | C#
 🌐 Backend:         Node.js | Express | CodeIgniter 3 | MySQL | MongoDB | Spring Boot 
 📱 Mobile:          Flutter | Firebase | Android SDK  | Swift | React Native 
