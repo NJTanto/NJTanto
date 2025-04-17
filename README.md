@@ -8,14 +8,14 @@
 
 ## 🔧 Technologies I Work With
 
-💻 Languages:       JavaScript | PHP | Dart | Solidity | Python | Java | Go | C#
-🌐 Backend:         Node.js | Express | CodeIgniter 3 | MySQL | MongoDB | Spring Boot 
-📱 Mobile:          Flutter | Firebase | Android SDK  | Swift | React Native 
-🎨 Frontend:        HTML5 | CSS3 | Bootstrap | Tailwind | React | Angular  
-🔐 Security:        JWT | OAuth2 | OTP | HTTPS | Role-based Auth  
-🧠 AI / Blockchain: ChatGPT API | ERC-20 Tokens | Smart Contracts  
-🖥️ DevOps:          Ubuntu | Nginx | VPS | PM2 | Git | GitHub Actions  
-📦 Tools:           VS Code | Postman | Figma | XAMPP | Docker  
+💻 Languages:       JavaScript | PHP | Dart | Solidity | Python | Java | Go | C#<br/>
+🌐 Backend:         Node.js | Express | CodeIgniter 3 | MySQL | MongoDB | Spring Boot <br/>
+📱 Mobile:          Flutter | Firebase | Android SDK  | Swift | React Native <br/>
+🎨 Frontend:        HTML5 | CSS3 | Bootstrap | Tailwind | React | Angular  <br/>
+🔐 Security:        JWT | OAuth2 | OTP | HTTPS | Role-based Auth  <br/>
+🧠 AI / Blockchain: ChatGPT API | ERC-20 Tokens | Smart Contracts  <br/>
+🖥️ DevOps:          Ubuntu | Nginx | VPS | PM2 | Git | GitHub Actions  <br/>
+📦 Tools:           VS Code | Postman | Figma | XAMPP | Docker  <br/>
 
 
 ## 🌐 Socials:
