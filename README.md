@@ -9,7 +9,7 @@
 ## 🔧 Technologies I Work With
 
 💻 Languages:       JavaScript | PHP | Dart | Solidity | Python | Java | Go | C#<br/>
-🌐 Backend:         Node.js | Express | CodeIgniter 3 | MySQL | MongoDB | Spring Boot <br/>
+🌐 Backend:         Go | Node.js | Express | CodeIgniter 3 | MySQL | MongoDB | Spring Boot <br/>
 📱 Mobile:          Flutter | Firebase | Android SDK  | Swift | React Native <br/>
 🎨 Frontend:        HTML5 | CSS3 | Bootstrap | Tailwind | React | Angular  <br/>
 🔐 Security:        JWT | OAuth2 | OTP | HTTPS | Role-based Auth  <br/>
